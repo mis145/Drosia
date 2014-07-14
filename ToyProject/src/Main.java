@@ -5,6 +5,7 @@ public class Main {
 
 		
 		System.out.println("Toy example");
+		System.out.println("Toy example2");
 	}
 
 }
